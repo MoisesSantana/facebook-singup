@@ -5,7 +5,7 @@ A Trybe passou como projeto em dupla a construção da página de login do faceb
 
 #### Imagem do projeto:
 
-![Imagem do projeto](./exemplo-facebook-signup.png)
+![Imagem do projeto](./exemplo-facebook-signup.jpg)
 
 ## Técnologias utilizadas:
 
