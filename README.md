@@ -13,9 +13,10 @@ A Trybe passou como projeto em dupla a construção da página de login do faceb
 * CSS3
 * JavaScript
 
-### Crie suas cartas misteriosas no link abaixo:
+### Visualize e interaja com a página signup do facebook aqui:
 
 https://moisessantana.github.io/facebook-signup/
 
+#### Imagem de terceiros:
 
 Imagem do smartphone <a href="https://www.flaticon.com/free-icon/smartphone_977258" title="prettycons">prettycons</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
