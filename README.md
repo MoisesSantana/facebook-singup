@@ -17,7 +17,7 @@ A Trybe passou como projeto em dupla a construção da página de login do faceb
 
 ### Visualize e interaja com a página signup da rede-social aqui:
 
-https://moisessantana.github.io/facebook-singup/
+https://moisessantana.github.io/rede-social-singup/
 
 #### Imagem de terceiros:
 
